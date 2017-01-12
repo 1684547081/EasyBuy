@@ -15,7 +15,7 @@ import javax.sql.DataSource;
 
 
 public class BaseDAO {
-	//修改成功
+	//修改成功asdasdasdasdasdasdas
 	public static final String driver = "com.mysql.jdbc.Driver";
 	public static final String url = "jdbc:mysql://localhost:3306/easybuy?useUnicode=true&charaterEncoding=UTF-8";
 	public static final String username = "root";
